@@ -2,8 +2,10 @@
 
 I’m a frontend developer with a background in experimental physics. I enjoy building web applications that solve real people problems. My main tools right now:
 
-- Base: Vue 3 (Composition API, SFC, Router, Pinia) + TypeScript + Vite
-- UI kits: Vuetify
+- Base: Vue 3 (Composition API, SFC, Router, Pinia), TypeScript, Vite, VueUse
+- UI: Vuetify, TailwindCss, Storybook, Figma
+- Tools: Git, Linux, Webpack, EsLint, Prettier
+- CI/CD: GitHub Actions
 
 <div style="display: flex">
 <img height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
